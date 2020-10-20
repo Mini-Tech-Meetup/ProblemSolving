@@ -40,8 +40,6 @@ class Solution
             
         }
 
-        Console.WriteLine(sum);
-        Console.WriteLine(maxOfSubseq);
         return new int[] { sum, maxOfSubseq };
     }
 
